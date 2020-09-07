@@ -1,0 +1,25 @@
+.Front {
+    background-color: white;
+    color: black;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 7%;
+    align-content: center;
+    text-align: center;
+}
+
+.Front h2 {
+    font-size: 4rem;
+}
+
+.Front p {
+    font-size: 1.5rem;
+}
+
+.Front div {
+}
+
+
+.Front-header {
+    background-color: white;
+}
