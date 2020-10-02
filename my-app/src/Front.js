@@ -23,7 +23,7 @@ function Front(){
                                 Hello, I'm Alex
                             </h2>
                             <p>
-                                Software Developer currently studying as a Junior in College. Passionate for video game development mobile app development and web development. 
+                                Software Developer craving to create and learn! 
                             </p>
                         </div>
                         

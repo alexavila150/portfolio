@@ -1,6 +1,6 @@
 .Front {
-    background-color: white;
-    color: black;
+    background-color: #144673;
+    color: #DFEDF2;
     padding-left: 15%;
     padding-right: 15%;
     padding-top: 5%;
@@ -9,6 +9,7 @@
 }
 
 .Front h2 {
+    padding-top: 50px;
     font-size: 4rem;
 }
 
@@ -16,12 +17,18 @@
     font-size: 1.5rem;
 }
 
-.Front div {
+div Col {
+    padding: 100px 0; 
+}
+
+.Front Container, .Front Col, .Front Row {
+    align-items: center;
 }
 
 img {
     weight: 300px;
     height: 300px;
+    border-radius: 50%;
 }
 
 .Front-header {
