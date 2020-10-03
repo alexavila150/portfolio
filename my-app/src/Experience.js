@@ -13,7 +13,8 @@ function Experience() {
           </h>
         </div>
         
-        <Carousel>
+        <Carousel interval="10000">
+        
         <Carousel.Item className="Item">
         <Container>
           <Row>
@@ -24,7 +25,7 @@ function Experience() {
                 </h1>
                 <p>
                   Worked on designing and implementing a full-stack website.
-                  Focused on development on developing RESTfull API that had the function of getting data from a database
+                  Focused on development on developing REST API that had the function of getting data from a database
                 </p>
               </div>
                 
@@ -42,40 +43,21 @@ function Experience() {
             <Col sm={7}>
               <div>
                 <h1>
-                  Hello, I'm Alex
+                  The University of Texas at El Paso -<br></br>Instructional Assistant
                 </h1>
                 <p>
-                  Software Developer craving to create and learn! 
+                  Help the UTEP instructors by helping their students to understand the course material during office hours and help with grading and developing the material that would be cover during the class and lab session.
+                  Mainly covering Data Structures using Java and Python
                 </p>
               </div>  
             </Col>
             <Col sm={5} className = "Image">
-              <img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/80203944_2859807094043966_3896791748550066176_o.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=0xtyNsRWOykAX9-701U&_nc_ht=scontent-dfw5-2.xx&oh=d6d018cebbebc7b16db0aeddfbfb7ec5&oe=5F7C700A"></img>
+              <img src="https://localist-images.azureedge.net/photos/667330/square_300/b448f143a181656eda21b534aede544b9a68883f.jpg"></img>
             </Col>
           </Row>
         </Container>
         </Carousel.Item>
         
-        <Carousel.Item className="Item">
-        <Container>
-          <Row>
-            <Col sm={7}>
-              <div>
-                <h1>
-                  Hello, I'm Alex
-                </h1>
-                <p>
-                  Software Developer craving to create and learn! 
-                </p>
-              </div>
-                
-            </Col>
-            <Col sm={5} className = "Image">
-              <img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/80203944_2859807094043966_3896791748550066176_o.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=0xtyNsRWOykAX9-701U&_nc_ht=scontent-dfw5-2.xx&oh=d6d018cebbebc7b16db0aeddfbfb7ec5&oe=5F7C700A"></img>
-            </Col>
-          </Row>
-        </Container>
-        </Carousel.Item>
         </Carousel>
     </div>
   );

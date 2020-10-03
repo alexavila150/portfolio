@@ -12,7 +12,7 @@ function Projects() {
           </h>
       </div>
       
-      <Carousel>
+      <Carousel interval="10000">
       <Carousel.Item className="Item">
       <Container>
           <Row>
