@@ -18,7 +18,7 @@ function Projects() {
           <Row>
             <Col sm={7}>
               <div>
-                <h1>
+                <h1 className="down3">
                   Coins Power 2
                 </h1>
                 <p>
@@ -39,7 +39,7 @@ function Projects() {
         <Row>
           <Col sm={7}>
             <div>
-              <h1>
+              <h1 className="down3">
                   Who's that Pokemon?
               </h1>
               <p>
@@ -60,7 +60,7 @@ function Projects() {
         <Row>
           <Col sm={7}>
             <div>
-              <h1>
+              <h1 className="down3">
                 Infinite Obstacle Game
               </h1>
               <p>
@@ -82,7 +82,7 @@ function Projects() {
         <Row>
           <Col sm={6}>
             <div>
-              <h1>
+              <h1 className="down2">
                 Simon Game
               </h1>
               <p>

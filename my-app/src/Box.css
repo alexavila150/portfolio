@@ -43,6 +43,18 @@
     filter: invert(100%);
 }
 
+.Box .down1{
+    padding-top: 1rem;
+}
+
+.Box .down2{
+    padding-top: 2rem;
+}
+
+.Box .down3{
+    padding-top: 3rem;
+}
+
 Container{
     margin-bottom: 10rem;
     height: 10rem;

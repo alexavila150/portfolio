@@ -18,7 +18,7 @@ function Experience() {
           <Row>
             <Col sm={6}>
               <div>
-                <h1>
+                <h1 className="down3">
                   Microsoft - Explorer Intern
                 </h1>
                 <p>
@@ -40,7 +40,7 @@ function Experience() {
           <Row>
             <Col sm={7}>
               <div>
-                <h1>
+                <h1 className="down2">
                   The University of Texas at El Paso -<br></br>Instructional Assistant
                 </h1>
                 <p>
