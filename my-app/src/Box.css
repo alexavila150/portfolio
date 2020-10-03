@@ -13,6 +13,42 @@
     color: #021F59;
 }
 
+.Box h1{
+    font-size: 2rem;
+    color: #021F59;
+}
+
+.Box p{
+    color: #021F59;
+}
+
+.Item{
+    
+    padding-bottom: 5rem;
+}
+
+.Box img{
+    width: auto;
+    height: 300px;
+}
+
+Container{
+    margin-bottom: 10rem;
+    height: 10rem;
+}
+
+.slick-prev:before {
+    color: #144673;
+}
+.slick-next:before {
+    color: #144673;
+}
+
+Caruasel h{
+    font-size: 2rem;
+    color: #021F59;
+}
+
 .Header{
     padding-bottom: 1rem;
 }

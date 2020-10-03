@@ -29,9 +29,7 @@ div Col {
     margin-right: 3rem;
 }
 
-
-
-img {
+.Front img {
     width: 300px;
     height: 300px;
     border-radius: 50%;
