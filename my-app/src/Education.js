@@ -25,7 +25,7 @@ function Education(){
 							
 							<p>
 								Expected Graduation Date: May 2022 - 
-								GPA: 3.93
+								GPA: 3.94
 							</p>
 
 							<ul>

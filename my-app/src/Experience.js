@@ -1,8 +1,6 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import './Box.css';
-import Carousel from 'react-bootstrap/Carousel'
-import {Container, Row, Col} from 'react-bootstrap'
+import {Container, Row, Col, Carousel} from 'react-bootstrap'
 
 function Experience() {
   return (

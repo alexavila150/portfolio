@@ -20,6 +20,7 @@
 
 .Box p{
     color: #021F59;
+    font-size: 1.2rem;
 }
 
 .Box .Item{
@@ -36,6 +37,10 @@
 .Box img{
     width: auto;
     height: 300px;
+}
+
+.Box .carousel-control-prev-icon, .Box .carousel-control-next-icon{
+    filter: invert(100%);
 }
 
 Container{
