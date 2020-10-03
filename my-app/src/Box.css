@@ -20,16 +20,39 @@
 
 .Box p{
     color: #021F59;
+    font-size: 1.2rem;
 }
 
-.Item{
+.Box .Item{
     
     padding-bottom: 5rem;
+}
+
+.Box ul{
+    text-align: left;
+    padding-left: 6rem;
+    color: #021F59;
 }
 
 .Box img{
     width: auto;
     height: 300px;
+}
+
+.Box .carousel-control-prev-icon, .Box .carousel-control-next-icon{
+    filter: invert(100%);
+}
+
+.Box .down1{
+    padding-top: 1rem;
+}
+
+.Box .down2{
+    padding-top: 2rem;
+}
+
+.Box .down3{
+    padding-top: 3rem;
 }
 
 Container{

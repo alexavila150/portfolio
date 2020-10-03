@@ -12,42 +12,34 @@ function Education(){
 				</h>
 			</div>
 			
-			<Carousel>
+			<Carousel interval="10000">
 			<Carousel.Item className="Item">
 			<Container>
 				<Row>
 					<Col sm={7}>
 						<div>
 							<h1>
-								Hello, I'm Alex
+								B.S. in Computer Science<br></br>
+								The University of Texas at El Paso
 							</h1>
+							
 							<p>
-								Software Developer craving to create and learn! 
+								Expected Graduation Date: May 2022 - 
+								GPA: 3.94
 							</p>
+
+							<ul>
+								<li>Data Structures & Algorithms</li>
+								<li>Automata/Computabi/Formal Lang</li>
+								<li>Discrete Mathematics</li>
+								<li>Adv. Object Oriented Programming</li>
+								<li>Matrix Algebra</li>
+								<li>Computer Architecture</li>
+							</ul>
 						</div>	
 					</Col>
 					<Col sm={5} className = "Image">
-						<img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/80203944_2859807094043966_3896791748550066176_o.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=0xtyNsRWOykAX9-701U&_nc_ht=scontent-dfw5-2.xx&oh=d6d018cebbebc7b16db0aeddfbfb7ec5&oe=5F7C700A"></img>
-					</Col>
-				</Row>
-			</Container>
-			</Carousel.Item>
-			
-			<Carousel.Item className="Item">
-			<Container>
-				<Row>
-					<Col sm={7}>
-						<div>
-							<h2>
-								Hello, I'm Alex
-							</h2>
-							<p>
-								Software Developer craving to create and learn! 
-							</p>
-						</div>
-					</Col>
-					<Col sm={5} className = "Image">
-						<img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/80203944_2859807094043966_3896791748550066176_o.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=0xtyNsRWOykAX9-701U&_nc_ht=scontent-dfw5-2.xx&oh=d6d018cebbebc7b16db0aeddfbfb7ec5&oe=5F7C700A"></img>
+						<img src="https://localist-images.azureedge.net/photos/667330/square_300/b448f143a181656eda21b534aede544b9a68883f.jpg"></img>
 					</Col>
 				</Row>
 			</Container>
