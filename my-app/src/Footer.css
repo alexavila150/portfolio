@@ -16,6 +16,10 @@
     background-color: #021F59;
 }
 
+.Footer .MuiIconButton-root{
+    font-size: 5rem;
+}
+
 .Footer .Button {
     color: brown;
     background-color: chartreuse;
