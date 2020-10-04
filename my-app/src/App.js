@@ -1,10 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Front from './Front';
 import Education from './Education';
 import Experience from './Experience';
 import Projects from './Projects';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -15,6 +15,9 @@ function App() {
         <Education />
         <Projects />
       </header>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }
