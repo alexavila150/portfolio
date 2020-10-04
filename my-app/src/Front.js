@@ -2,11 +2,8 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Container, Row, Col} from 'react-bootstrap'
 import './Front.css'
-import './profile.png'
-import { makeStyles } from '@material-ui/core/styles';
 
 function Front(){
-	const classes = useStyles();
 
 	return(
 		<div className="Front">
@@ -33,14 +30,3 @@ function Front(){
 }
 
 export default Front
-
-const useStyles = makeStyles((theme) => ({
-    root: {
-      flexGrow: 1,
-    },
-    paper: {
-      padding: theme.spacing(2),
-      textAlign: 'center',
-      color: theme.palette.text.secondary,
-    },
-  }));

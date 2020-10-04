@@ -1,0 +1,22 @@
+.Footer {
+    background-color: #144673;
+    color: #DFEDF2;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    align-content: center;
+    text-align: center;
+}
+
+.Footer .Icon{
+    align-self: center;
+}
+
+.MuiBottomNavigationAction-wrapper{
+    background-color: #021F59;
+}
+
+.Footer .Button {
+    color: brown;
+    background-color: chartreuse;
+}
