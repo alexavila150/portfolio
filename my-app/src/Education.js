@@ -13,6 +13,7 @@ function Education(){
 			</div>
 			
 			<Carousel interval="10000">
+			
 			<Carousel.Item className="Item">
 			<Container>
 				<Row>
@@ -45,6 +46,29 @@ function Education(){
 			</Container>
 			</Carousel.Item>
 			
+			<Carousel.Item className="Item">
+			<Container>
+			<Row>
+				<Col sm={6}>
+				<div>
+					<h1 className="down3">
+					  Coding Interview Club - Officer
+					</h1>
+					<p>
+					  Host meetings and workshops to help students get practice and prepare for their coding interviews. 
+            Around 20 Students come to get practice twice a week doing problems that we assign them and let them explain the 
+            solutions to practice thier explanation skill for the interview otherwise if nobody solved a problem we explain it to them.
+					</p>
+				</div>
+					
+				</Col>
+				<Col sm={6}>
+				  <img className = "Item-Image" src="/images/cic.jpg"></img>
+				</Col>
+			</Row>
+			</Container>
+			</Carousel.Item>
+
 			</Carousel>
 		</div>
 	);
